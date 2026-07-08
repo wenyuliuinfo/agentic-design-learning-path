@@ -14,7 +14,7 @@ Guardrails, also referred to as safety patterns, are crucial mechanisms that ens
 1. Clone the repository:
 ```bash
 git clone https://github.com/wenyuliuinfo/agentic-design-learning-path.git
-cd 16-guardrails-patterns/python
+cd 18-guardrails-patterns/python
 ```
 
 2. Install the prerequisites:
