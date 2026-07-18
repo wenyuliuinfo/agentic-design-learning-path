@@ -14,19 +14,19 @@ The content is organized into modules, each focusing on a specific agentic desig
 
 ```
 agentic-design-learning-path/
-    ├── 01-prompt-chaining/ # Breaking down tasks into sequential prompts
-    ├── 02-routing/ # Directing tasks to specialized sub-agents
-    ├── 03-parallelization/ # Running multiple agent processes concurrently
-    ├── 04-reflection/ # Agents critiquing and improving their own outputs
-    ├── 05-tool-use/ # Enabling agents to interact with external tools
-    ├── 08-memory-management/ # Managing short-term and long-term agent memory
-    ├── 11-goal-setting/ # Agents setting and monitoring their own goals
-    ├── 14-knowledge-retrieval/ # Integrating RAG and knowledge bases
+    ├── 01-prompt-chaining/             # Breaking down tasks into sequential prompts
+    ├── 02-routing/                     # Directing tasks to specialized sub-agents
+    ├── 03-parallelization/             # Running multiple agent processes concurrently
+    ├── 04-reflection/                  # Agents critiquing and improving their own outputs
+    ├── 05-tool-use/                    # Enabling agents to interact with external tools
+    ├── 08-memory-management/           # Managing short-term and long-term agent memory
+    ├── 11-goal-setting/                # Agents setting and monitoring their own goals
+    ├── 14-knowledge-retrieval/         # Integrating RAG and knowledge bases
     ├── 16-resource-aware-optimization/ # Optimizing agent performance with resource constraints
-    ├── 18-guardrails-patterns/ # Implementing safety and control mechanisms
-    ├── 19-evaluation-and-monitoring/ # Measuring and tracking agent performance
-    ├── 20-prioritization/ # Managing and prioritizing multiple tasks/goals
-    ├── .env.example # Example environment variables file
+    ├── 18-guardrails-patterns/         # Implementing safety and control mechanisms
+    ├── 19-evaluation-and-monitoring/   # Measuring and tracking agent performance
+    ├── 20-prioritization/              # Managing and prioritizing multiple tasks/goals
+    ├── .env.example                    # Example environment variables file
     ├── .gitignore
     └── README.md
 ```
@@ -34,7 +34,7 @@ agentic-design-learning-path/
 Each module folder typically contains:
 - **`README.md`**: A detailed explanation of the pattern, its use cases, and how the code works.
 - **`.py` Python scripts**: The core implementation of the pattern.
-- 
+  
 
 ## 🚀 Getting Started
 
